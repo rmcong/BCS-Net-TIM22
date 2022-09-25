@@ -50,7 +50,7 @@ python test.py
        volume    = {71},
        pages     = {1--11},
        year      = {2022}
-}
+      }
 
 # Contact Us:
 If you have any questions, please contact Runmin Cong (rmcong@bjtu.edu.cn) or Haowei Yang (hwyang@bjtu.edu.cn).
