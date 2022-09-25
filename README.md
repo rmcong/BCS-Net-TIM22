@@ -43,12 +43,14 @@ python test.py
 
 # If you use our BCS-NET, please cite our paper:
 
-    @article{BCS-NET,
-        title={ BCS-Net: Boundary, Context and Semantic for Automatic COVID-19 Lung Infection Segmentation from CT Images},
-        author={Runmin Cong, Haowei Yang, Qiuping Jiang, Wei Gao, Haisheng Li, Cong Wang, Yao Zhao},
-        journal={IEEE TIM.},
-        publisher={IEEE}
-    }
+    @article{crm/tim22/covid,
+       author    = {Runmin Cong and Haowei Yang and  Qiuping Jiang and Wei Gao and Hai{-}Sheng Li and Cong Wang and Yao Zhao andSam Kwong},
+       title     = {{BCS-Net}: Boundary, Context, and Semantic for Automatic {COVID-19} Lung Infection Segmentation From {CT} Images},
+       journal   = {{IEEE} Trans. Instrum. Meas.},
+       volume    = {71},
+       pages     = {1--11},
+       year      = {2022}
+}
 
 # Contact Us:
 If you have any questions, please contact Runmin Cong (rmcong@bjtu.edu.cn) or Haowei Yang (hwyang@bjtu.edu.cn).
