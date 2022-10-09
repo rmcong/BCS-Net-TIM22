@@ -29,9 +29,9 @@ Baidu Cloud: https://pan.baidu.com/s/1NZx0RE-cliQ0zJ6bYDqDow   Password: u1v1
 * Please download the test data, and put the data to `Dataset/` folder.
 * COVID-19 CT segmentation dataset: https://medicalsegmentation.com/COVID19/,  COVID-19 CT lung and infection segmentation dataset: https://zenodo.org/record/3757476
 * NII file processing tool and edge generation tool in `Dataset/` folder. 
-* test datasets:
+* train and test datasets:
 ```
-Baidu Cloud: https://pan.baidu.com/s/1NZx0RE-cliQ0zJ6bYDqDow   Password: u1v1
+Baidu Cloud: https://pan.baidu.com/s/1qONGZ8pvT7jXl0lkeUpS8w   Password: uic5
 ```
 
 ## Test
